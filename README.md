@@ -3,11 +3,11 @@
 
 ### 使用方法
 
-    ####引入utilt.js文件
+####引入utilt.js文件
 
     <script type="text/javascript" src="js/utilt.js"></script>
     
-    #### 实例化函数
+#### 实例化函数
     
     var flaot = new Move('.container');
 
